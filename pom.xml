@@ -17,7 +17,6 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <version.com.deram.ctin>${project.version}</version.com.deram.ctin>
     </properties>
 
     <build>
